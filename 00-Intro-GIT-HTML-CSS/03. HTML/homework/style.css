@@ -1,0 +1,53 @@
+<html>
+    <head>
+        <title>"Tarea de HTML de Elizabeth"</title>
+        <style>
+            #thirdDiv {
+                height: 600px;
+                width: 500px;
+                background-color: indianred;
+                padding: 50px;
+                border: 3px solid rebeccapurple;
+            
+
+            }
+
+            .divClass {
+
+            }
+
+            #spanId {
+                font-size: 18px;
+                margin: 50px ;
+
+            }
+
+        </style>
+
+    </head>
+    
+    <body>
+        <div class="divClass">
+            <h1 style="color: darkgreen;">Elizabeth</h1>
+            <h3>Henry</h3>
+            <h4>Tarea de HTML / CSS</h4>
+
+        </div>
+        <div class="divClass">
+            <span id="spanId"> Pastas caseras, son hechos con harina.</span>
+            <a href="https://www.laparolaccia.com/#resto">La Parolaccia</a>
+
+        </div>
+        <div id="thirdDiv">
+            <ul>
+               <li><img style="width: 400px;" src="https://ar.all.biz/img/ar/catalog/23481.png" alt="pastas1"></li>
+               <li><img style="width: 400px;" src="https://images.clarin.com/2018/06/19/receta-de-noquis-de-papa___HJS8-kvW7_720x0__1.jpg" alt="pastas2"></li>
+                
+            
+            </ul>
+
+        </div>
+    </body>
+</html>
+
+   
